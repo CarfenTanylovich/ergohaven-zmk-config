@@ -87,7 +87,7 @@
     };
 };
 
-&trackball { cpi = <1000>; };
+&trackball { cpi = <1200>; };
 
 &trackball_listener {
     input-processors =
